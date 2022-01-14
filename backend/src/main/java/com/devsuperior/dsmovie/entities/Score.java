@@ -13,7 +13,7 @@ public class Score {
 	
 	private Double value;
 	
-	public Store () {
+	public Score() {
 		
 	}
 	
